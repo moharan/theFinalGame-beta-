@@ -1,2 +1,2 @@
-# Descripción del proyecto
+# TalentFest
 ** Proyecto **
